@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- uses: flaviosenne/master
+  with:
+    github_user_name: flaviosenne
+    gif_out_path: dist/github-contribution-grid-snake.gif
+    svg_out_path: dist/github-contribution-grid-snake.svg
