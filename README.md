@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- uses: flaviosenne/master
+- uses: flaviosenne/snk@master
   with:
     github_user_name: flaviosenne
     gif_out_path: dist/github-contribution-grid-snake.gif
