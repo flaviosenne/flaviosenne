@@ -5205,10 +5205,10 @@
         }
 
         :root {
-            --cb: black;
+            --cb: #24292e;
             --cs: purple;
-            --ce: black;
-            --c0: black;
+            --ce: #ebedf0;
+            --c0: #ebedf0;
             --c1: #9be9a8;
             --c2: #40c463;
             --c3: #30a14e;
