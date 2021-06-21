@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/flaviosenne/flaviosene/output/github-user-contribution.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/flaviosenne/flaviosenne/output/github-user-contribution.svg)
 
 
 
