@@ -15,16 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-
-- uses: flaviosenne/snk@master
-  with:
-    github_user_name: flaviosenne
-    gif_out_path: dist/github-contribution-grid-snake.gif
-    svg_out_path: dist/github-contribution-grid-snake.svg
+![github contribution grid snake animation](https://raw.githubusercontent.com/flaviosenne/flaviosene/output/github-user-contribution.svg)
 
 
 
